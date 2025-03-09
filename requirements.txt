@@ -8,3 +8,4 @@ spacy
 scikit-learn
 python-multipart
 aiofiles
+pdfplumber
