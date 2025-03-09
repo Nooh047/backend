@@ -9,3 +9,6 @@ scikit-learn
 python-multipart
 aiofiles
 pdfplumber
+thefuzz
+pytz
+fitz
